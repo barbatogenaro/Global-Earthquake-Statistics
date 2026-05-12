@@ -2,7 +2,7 @@
 
 This repository contains an in-depth exploratory and inferential statistical analysis of global earthquake data, with a specialized focus on the **South American margin**. The project transitions from Exploratory Data Analysis (EDA) to complex statistical modeling and hypothesis testing.
 
-## 📊 Key Research Phases
+## Key Research Phases
 
 ### 1. Regional EDA: South American Margin
 * **Targeted Filtering:** Specialized analysis for Chile, Peru, Ecuador, and Colombia, identifying seismic patterns along the Nazca-South American plate boundary.
